@@ -1,0 +1,4 @@
+/data/de_corpus_tokenized
+/data/it_corpus_tokenized
+/data/word2vecf_embeddings/*
+/data/word2vecf_pairs/*

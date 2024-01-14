@@ -1,0 +1,15 @@
+*/__pycache__/
+
+*/.env
+
+# Ignore word embedding files
+*.npy
+*.vocab
+*/data/de_corpus_tokenized
+*/data/it_corpus_tokenized
+*/data/word2vecf_embeddings/*
+*/data/word2vecf_pairs/*
+
+# Ignore external libraries
+DEMorphy/
+word2vecf/
